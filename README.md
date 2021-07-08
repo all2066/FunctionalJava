@@ -8,7 +8,7 @@
 
 
 ## Introduction
-In this course we learn about functional programming and its parts.The basic objective of this style of programming is to make code more concise, less complex, more predictable, and easier to test compared to the legacy style of coding.
+In this course we learn about functional programming and its parts. The basic objective of this style of programming is to make code more concise, less complex, more predictable, and easier to test compared to the legacy style of coding.
 
 ---------------------------------------------------------------
 
